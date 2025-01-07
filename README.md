@@ -1,7 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
-- 🌱 I’m currently learning django
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyassir&layout=compact)](https://github.com/yusufyassir/github-readme-stats)
+ 🔭 I’m currently working on improving my skills on embedded systems and backend  
+ 🌱 I’m currently learning django  
+ 📫 How to reach me: [yusuf yasir](https://www.linkedin.com/in/yusuf-yasir-a1242a214/)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufyassir&layout=compact)](https://github.com/yusufyassir/github-readme-stats)
 <!--
 **yusufyassir/yusufyassir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
